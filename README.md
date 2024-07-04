@@ -1,1 +1,1 @@
-Nesse projeto criei um jogo para o computador adivinhar qual o número que o usuário selecionou como correto, assim támbem o usuário tem a possibilidade de escolher se ele quer um número maaior ou menor para selecionar como correto 
+In this game the computer must guess the number you selected as correct, the user will have the option to choose whether they want a larger or smaller number
